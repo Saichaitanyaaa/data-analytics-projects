@@ -14,19 +14,21 @@ Each project focuses on building practical skills in data cleaning, visualizatio
 - **File:** `Sales_Dashboard1111111.csv`
 
 
-## 🍕 Project 2: Pizza Sales KPI Dashboard (Excel)
-- **Objective:** Learn how to design a KPI dashboard using Excel to track pizza sales performance.
+## 🍕 Project 2: Pizza Sales KPI Dashboard using SQL and Excel
+- **Objective:** Analyze pizza sales data using SQL and Excel to create KPI-based performance insights.
 - **Learning Focus:**
-  - Cleaned raw sales data and prepared it for dashboard reporting.
-  - Used Pivot Tables and Charts to calculate KPIs such as total revenue, average order value, and top-selling pizzas.
-  - Designed an interactive **Excel dashboard** with pivot charts for better visualization.
+  - Queried and filtered pizza sales data using SQL to calculate key metrics like total revenue, order count, and average order value.
+  - Cleaned and transformed the queried data in Excel for dashboard visualization.
+  - Used Pivot Tables and Charts to display KPIs such as top-selling pizzas, revenue trends, and order frequency.
+  - Designed an interactive **Excel dashboard** with Pivot Charts to summarize overall performance.
 - **Includes:**
+  - SQL Queries  
   - Raw Data  
   - Cleaned Data  
   - KPI Metrics  
   - Pivot Charts  
   - Dashboard
-- **Tools Used:** Excel (Pivot Tables, Charts, Dashboard Design)
+- **Tools Used:** SQL, Excel (Pivot Tables, Charts, Dashboard Design)
 - **File:** `Pizza_Sales_KPI.xlsx`
 
 
