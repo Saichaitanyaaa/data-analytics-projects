@@ -47,13 +47,3 @@ These projects were created as part of my learning journey in **data analytics**
 They helped me understand how to combine SQL and Excel to find insights and create dashboards — one step closer to becoming a Data Analyst!
 
 
-
-
- 
-
-
-
-### 🎯 About
-These projects were created as part of my learning journey in **data analytics**.  
-They helped me understand how to combine SQL and Excel to find insights and create dashboards — one step closer to becoming a Data Analyst!
-
